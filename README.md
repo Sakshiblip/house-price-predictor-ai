@@ -1,6 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/house-price-predictor-ai/blob/main/predicting_housing_market_trends_with_AI.ipynb)
 # Predicting Housing Market Trends with AI 🏠
-
 This repository contains a machine learning project focused on predicting real estate prices using regression techniques. By analyzing various architectural and environmental features, this project builds a model capable of estimating property values with high precision.
 
 ## 📌 Project Overview
